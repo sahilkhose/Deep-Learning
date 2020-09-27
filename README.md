@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------------------
 
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-*This Repository Contains Solution to the Assignments of the Deep Learning Specialization from deeplearning.ai on Coursera Taught by [Andrew Ng](https://www.coursera.org/instructor/andrewng).*
+*This Repository Contains the Solutions to the Assignments of the Deep Learning Specialization from deeplearning.ai on Coursera Taught by [Andrew Ng](https://www.coursera.org/instructor/andrewng).*
 
 --------------------------------------------------------------------------------------------
 
